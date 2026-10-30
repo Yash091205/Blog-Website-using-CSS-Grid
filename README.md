@@ -49,9 +49,7 @@ Blog-Website-using-CSS-Grid/
 ├── index.html
 ├── style.css
 │
-└── images/
-    ├── blog images
-    └── author images
+└── images
 ```
 
 ## ⚙️ How to Run the Project
